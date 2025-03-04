@@ -6,8 +6,6 @@
 To get started, clone the empty repository to your local machine:
 
 ```bash
-# Using SSH (Recommended)
-git clone git@github.com:your-organization/your-repo.git
 
 # Using HTTPS
 git clone https://github.com/AYAAMB/portfolio.git

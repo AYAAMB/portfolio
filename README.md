@@ -10,7 +10,7 @@ To get started, clone the empty repository to your local machine:
 git clone git@github.com:your-organization/your-repo.git
 
 # Using HTTPS
-git clone https://github.com/your-organization/your-repo.git
+git clone https://github.com/AYAAMB/portfolio.git
 ```
 
 Then, navigate to the project directory:

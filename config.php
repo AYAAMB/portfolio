@@ -1,6 +1,6 @@
 <?php
 $host = "localhost";
-$dbname = "web"; // Nom de la base de données
+$dbname = "web_db"; // Nom de la base de données
 $username = "root";  // Par défaut sur XAMPP
 $password = "";  // Mot de passe vide sur XAMPP
 
